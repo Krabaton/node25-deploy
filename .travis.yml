@@ -6,7 +6,7 @@ script:
 deploy:
   provider: heroku
   api_key:
-    secure: he
+    secure: GjPFqzU/Obrskh2nsurqgwCK8hIf4109oaeAgkWgitXA1Z5++yyfsTe1P2MVnpRtSM+bSm9ORHMuAa8ZsGzknMEShupLYZF+uVbGIx2xxWa/9in537TR3LTd8hlXXUfIuGoRVWvPulcixFl8JpMCFWP+wND6CXvXTnvD3rPBIRTVnEM/AL4YgzoK3zFXYBxlvynDggVU4b2z6rRjjmTuX4Z1yFueT/mNuwkYH2KEEeIM66gqwo2Ho8HsDn7VRKij+0bbEwza2tUwCSqNPu2+oKrhjehmFj8/LErlCkZoEbnRWjNesi6QFc9GDz/nizwyhIW/nTcSP6Fjd+GziQWvKxFT3pOjnsNwAKoyDAR65XbZW0aXZwcgaR33k6Ebihv4HLJaeMKR4NZY/Oiw2rAmrJWAqIuFou1E9sh2WWnJG5mU2fbSBNru9GLygF74P/mx8PbVt3efeh7viQE6aWnWwadhUROOv3IbGXgcYHn2LKQYVXaulXClc6602Y094iPyeinyCpfZU3SwO4KjfgB2TE0ELNHGLrx+M50ks3JOTJ/VLtBIf6E9uHkItwb/U18JDa5iuutWUErhah+UIrKipbIcT5pYw+bZjfLwuduVVE5UNFrBm+7cQfcqqj5FmHRzlR5nBL18xOwYxro3I+aEpy38ZsHiBNONdfKnxPMDV74=
   strategy: git
   app:
     master: api-nodejs-course
